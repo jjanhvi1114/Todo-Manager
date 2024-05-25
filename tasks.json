@@ -28,20 +28,6 @@
         "status": "Pending"
     },
     {
-        "task": "Pay Electricity Bill",
-        "category": "Personal",
-        "priority": "Medium",
-        "due_date": "2024-06-12",
-        "status": "Pending"
-    },
-    {
-        "task": "Plan weekend trip",
-        "category": "Personal",
-        "priority": "Low",
-        "due_date": "2024-05-22",
-        "status": "Pending"
-    },
-    {
         "task": "Buy groceries",
         "category": "personal",
         "priority": "medium",
