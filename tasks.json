@@ -1,0 +1,51 @@
+[
+    {
+        "task": "Pay Electricity Bill",
+        "category": "Personal",
+        "priority": "Medium",
+        "due_date": "2024-06-12",
+        "status": "Pending"
+    },
+    {
+        "task": "Attend team meeting",
+        "category": "Work",
+        "priority": "Medium",
+        "due_date": "2024-05-16",
+        "status": "Pending"
+    },
+    {
+        "task": "Call client to discuss project details",
+        "category": "Work",
+        "priority": "High",
+        "due_date": "2024-06-01",
+        "status": "Pending"
+    },
+    {
+        "task": " Plan weekend trip",
+        "category": "Personal",
+        "priority": "Low",
+        "due_date": "2021-06-05",
+        "status": "Pending"
+    },
+    {
+        "task": "Pay Electricity Bill",
+        "category": "Personal",
+        "priority": "Medium",
+        "due_date": "2024-06-12",
+        "status": "Pending"
+    },
+    {
+        "task": "Plan weekend trip",
+        "category": "Personal",
+        "priority": "Low",
+        "due_date": "2024-05-22",
+        "status": "Pending"
+    },
+    {
+        "task": "Buy groceries",
+        "category": "personal",
+        "priority": "medium",
+        "due_date": "2024-06-20",
+        "status": "Pending"
+    }
+]
